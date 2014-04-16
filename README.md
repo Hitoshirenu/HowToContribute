@@ -25,11 +25,11 @@ It's difficult for us developers to stay organized and adequately track changes 
 9. Merge the latest from the `develop` branch and **resolve any conflicts** (*before submitting a pull request!*)
 10. Submit a pull request to the `develop` branch
 
-# Style
+# Style Guidelines
 
 Style and adherence to conventions is just as important as the code you write. *Don't be sloppy.* Your mother wouldn't like that.
 
-## Objective-C style guidelines
+## Objective-C
 
 The follow sets of guidelines compliment each other well and cover nearly everything.
 
