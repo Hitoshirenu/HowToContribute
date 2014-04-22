@@ -2,15 +2,15 @@
 
 *Simple contribution guidelines to make open-source happy and organized*
 
-It's difficult for us developers to stay organized and adequately track changes in our code. This difficulty is amplified on teams of more than one. It's further amplified by distributed teams and [time zones](http://xkcd.com/448/). It's even more amplified in open-source. With the guide below, open-source can be organized. It can be a happy place. Resist being a [lazy developer](http://1.bp.blogspot.com/-YD8Na5Mv4oY/USZJ0T5RKQI/AAAAAAAADnU/5U871_OaqRE/s1600/Ain-t-Nobody-Got-Time-Fo-Dat-sweet-brown-31241125-480-330.jpg), we can get through this together.
-
+Resist being a [lazy developer](http://1.bp.blogspot.com/-YD8Na5Mv4oY/USZJ0T5RKQI/AAAAAAAADnU/5U871_OaqRE/s1600/Ain-t-Nobody-Got-Time-Fo-Dat-sweet-brown-31241125-480-330.jpg), we can get through this together.
 
 ## Project Organization
 
-* `master` branch is always stable and release-ready
-* `develop` branch is not guaranteed to be stable, it is for development and merged into `master` when stable
-* feature branches should be created for adding new features and merged into `develop` when ready
-* bug fix branches should be created for fixing bugs and merged into `develop` when ready
+* Branch `master` is always stable and release-ready
+* Branch `develop` is for development and merged into `master` when stable
+* Feature branches should be created for adding new features and merged into `develop` when ready
+* Bug fix branches should be created for fixing bugs and merged into `develop` when ready
+* See also: [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model)
 
 ## Step-by-step
 
