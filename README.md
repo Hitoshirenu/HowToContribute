@@ -1,10 +1,10 @@
-# How To Contribute
+# How to contribute
 
 *Simple contribution guidelines to make open-source happy and organized*
 
 Resist being a [lazy developer](http://1.bp.blogspot.com/-YD8Na5Mv4oY/USZJ0T5RKQI/AAAAAAAADnU/5U871_OaqRE/s1600/Ain-t-Nobody-Got-Time-Fo-Dat-sweet-brown-31241125-480-330.jpg), we can get through this together.
 
-## Project Organization
+## Project organization
 
 * Branch `master` is always stable and release-ready
 * Branch `develop` is for development and merged into `master` when stable
@@ -12,7 +12,16 @@ Resist being a [lazy developer](http://1.bp.blogspot.com/-YD8Na5Mv4oY/USZJ0T5RKQ
 * Bug fix branches should be created for fixing bugs and merged into `develop` when ready
 * See also: [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model)
 
-## Step-by-step
+## Opening a new issue
+
+1. Look through existing issues to see if your issue already exists
+2. **Do not** open a duplicate issue
+3. If you're issue already exists, comment on its thread with any new information you have
+4. For new issues, be as descriptive as you can 
+5. Provide as much information as you can on how to reproduce
+6. Attach screenshots, videos, GIFs if possible
+
+## Submitting a pull request
 
 1. Find an issue to work on, or create a new one (*avoid duplicates, please check existing issues!*)
 2. Fork the repo
@@ -25,11 +34,11 @@ Resist being a [lazy developer](http://1.bp.blogspot.com/-YD8Na5Mv4oY/USZJ0T5RKQ
 9. Merge the latest from the `develop` branch and **resolve any conflicts** (*before submitting a pull request!*)
 10. Submit a pull request to the `develop` branch
 
-# Style Guidelines
+# Style guidelines
 
 Style and adherence to conventions is just as important as the code you write. *Don't be sloppy.* Your mother wouldn't like that.
 
-## Objective-C
+## Objective-C style
 
 The follow sets of guidelines compliment each other well and cover nearly everything.
 
