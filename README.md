@@ -16,7 +16,7 @@ Resist being a [lazy developer](http://1.bp.blogspot.com/-YD8Na5Mv4oY/USZJ0T5RKQ
 
 1. Look through existing issues to see if your issue already exists
 2. **Do not** open a duplicate issue
-3. If you're issue already exists, comment on its thread with any new information you have
+3. If your issue already exists, comment on its thread with any new information you have
 4. For new issues, be as descriptive as you can 
 5. Provide as much information as you can on how to reproduce
 6. Attach screenshots, videos, GIFs if possible
