@@ -31,7 +31,7 @@ Resist being a [lazy developer](http://1.bp.blogspot.com/-YD8Na5Mv4oY/USZJ0T5RKQ
 6. Keep your code nice and clean by adhering to coding standards & guidelines (*see below*)
 7. Don't break shit, like unit tests
 8. Update the documentation header comments, if needed
-9. Merge the latest from the `develop` branch and **resolve any conflicts** (*before submitting a pull request!*)
+9. **Merge the latest from the `develop` branch and resolve any conflicts** (*before submitting a pull request!*)
 10. Submit a pull request to the `develop` branch
 
 # Style guidelines
