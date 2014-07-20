@@ -34,6 +34,8 @@ Resist being a [lazy developer](http://1.bp.blogspot.com/-YD8Na5Mv4oY/USZJ0T5RKQ
 9. **Merge the latest from the `develop` branch and resolve any conflicts** (*before submitting a pull request!*)
 10. Submit a pull request to the `develop` branch
 
+**You should submit 1 pull request per feature!** The smaller the PR, the better your chances are of getting merged. Enormous PRs will takely enormous amounts of time to review.
+
 # Style guidelines
 
 Style and adherence to conventions is just as important as the code you write. *Don't be sloppy.* Your mother wouldn't like that.
