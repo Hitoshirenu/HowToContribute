@@ -20,6 +20,7 @@ Resist being a [lazy developer](http://1.bp.blogspot.com/-YD8Na5Mv4oY/USZJ0T5RKQ
 4. For new issues, *be as descriptive as you can*
 5. Provide as much information as you can on how to reproduce your issue
 6. Attach screenshots, videos, GIFs if possible
+7. **Include library version or branch experiencing the issue**
 
 ## Submitting a pull request
 
