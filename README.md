@@ -14,13 +14,15 @@ Resist being a [lazy developer](http://1.bp.blogspot.com/-YD8Na5Mv4oY/USZJ0T5RKQ
 
 ## Opening a new issue
 
+**Do not open a duplicate issue!**
+
 1. Look through existing issues to see if your issue already exists
-2. **Do not** open a duplicate issue
-3. If your issue already exists, comment on its thread with any new information you have
-4. For new issues, *be as descriptive as you can*
-5. Provide as much information as you can on how to reproduce your issue
-6. Attach screenshots, videos, GIFs if possible
-7. **Include library version or branch experiencing the issue**
+2. If your issue already exists, comment on its thread with any information you have
+3. Always *be as descriptive as you can*
+4. Provide as much information as you can on how to reproduce your issue
+5. Attach screenshots, videos, GIFs if possible
+6. **Include library version or branch experiencing the issue**
+7. **Include OS version and devices experiencing the issue**
 
 ## Submitting a pull request
 
