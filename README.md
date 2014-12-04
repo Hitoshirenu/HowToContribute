@@ -45,7 +45,7 @@ Style and adherence to conventions is just as important as the code you write. *
 
 ## Objective-C style
 
-The follow sets of guidelines compliment each other well and cover nearly everything.
+The following sets of guidelines compliment each other well and cover nearly everything.
 
 * Google's [Objective-C Style Guide](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
 * Apple's [Coding Guidelines for Cocoa](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)
