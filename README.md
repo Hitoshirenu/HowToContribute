@@ -45,9 +45,17 @@ Style and adherence to conventions is just as important as the code you write. M
 
 ## Objective-C style
 
-The following sets of guidelines compliment each other well and cover nearly everything.
+The following sets of guidelines compliment each other well and cover nearly everything. In the event of contradictory rules, the order of the guides below denotes their precedence.
 
-* Google's [Objective-C Style Guide](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
-* Apple's [Coding Guidelines for Cocoa](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)
-* NYTimes [Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide)
+1. Apple's [Coding Guidelines for Cocoa](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html)
+2. Google's [Objective-C Style Guide](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
+3. NYTimes [Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide)
 
+## Swift style
+
+Clarity and readability should be prioritized. Remember that [verboseness does not necessarily yield clarity](http://radex.io/swift/methods/). 
+
+Adhere to the following sets of guidelines. In the event of contradictory rules, the order of the guides below denotes their precedence.
+
+1. GitHub's [Swift Style Guide](https://github.com/github/swift-style-guide)
+2. Ray Wenderlich's [Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
