@@ -6,42 +6,42 @@ Resist being a [lazy developer](http://1.bp.blogspot.com/-YD8Na5Mv4oY/USZJ0T5RKQ
 
 ## Project organization
 
-* Branch `master` is always stable and release-ready
-* Branch `develop` is for development and merged into `master` when stable
-* Feature branches should be created for adding new features and merged into `develop` when ready
-* Bug fix branches should be created for fixing bugs and merged into `develop` when ready
-* See also: [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model)
+* Branch `master` is always stable and release-ready.
+* Branch `develop` is for development and merged into `master` when stable.
+* Feature branches should be created for adding new features and merged into `develop` when ready.
+* Bug fix branches should be created for fixing bugs and merged into `develop` when ready.
+* See also: [*A successful Git branching model*](http://nvie.com/posts/a-successful-git-branching-model).
 
 ## Opening a new issue
 
 **Do not open a duplicate issue!**
 
-1. Look through existing issues to see if your issue already exists
-2. If your issue already exists, comment on its thread with any information you have
-3. Always *be as descriptive as you can*
-4. Provide as much information as you can on how to reproduce your issue
-5. Attach screenshots, videos, GIFs if possible
-6. **Include library version or branch experiencing the issue**
-7. **Include OS version and devices experiencing the issue**
+1. Look through existing issues to see if your issue already exists.
+2. If your issue already exists, comment on its thread with any information you have. Even if this is simply to note that you are having the same problem, it is still helpful!
+3. Always *be as descriptive as you can*.
+4. Provide as much information as you can on how to reproduce your issue.
+5. Attach screenshots, videos, GIFs if possible.
+6. **Include library version or branch experiencing the issue.**
+7. **Include OS version and devices experiencing the issue.**
 
 ## Submitting a pull request
 
-1. Find an issue to work on, or create a new one (*avoid duplicates, please check existing issues!*)
-2. Fork the repo
-3. Create a new branch with a sweet fucking name: `git checkout -b issue_<##>_<featureOrFix>`
-4. Do some motherfucking programming
-5. Write [unit tests](http://nshipster.com/unit-testing), if possible
-6. Keep your code nice and clean by adhering to coding standards & guidelines (*see below*)
-7. Don't break shit, like unit tests
-8. Update the documentation header comments, if needed
-9. **Merge the latest from the `develop` branch and resolve any conflicts** (*before submitting a pull request!*)
-10. Submit a pull request to the `develop` branch
+1. Find an issue to work on, or create a new one. *Avoid duplicates, please check existing issues!*
+2. Fork the repo.
+3. Create a new branch with a sweet fucking name: `git checkout -b issue_<##>_<featureOrFix>`.
+4. Do some [motherfucking programming](http://programming-motherfucker.com).
+5. Write [unit tests](http://nshipster.com/unit-testing) when applicable.
+6. Keep your code nice and clean by adhering to the coding standards & guidelines below.
+7. Don't break shit, like unit tests, but especially functionality.
+8. Update the documentation header comments if needed.
+9. **Merge the latest from the `develop` branch and resolve any conflicts _before submitting a pull request!_**
+10. Submit a pull request to the `develop` branch.
 
-**You should submit one pull request per feature!** The smaller the PR, the better your chances are of getting merged. Enormous PRs will likely take enormous amounts of time to review.
+**You should submit one pull request per feature!** The smaller the PR, the better your chances are of getting merged. Enormous PRs will likely take enormous amounts of time to review, or they will be rejected.
 
 # Style guidelines
 
-Style and adherence to conventions is just as important as the code you write. *Don't be sloppy.* Your mother wouldn't like that.
+Style and adherence to conventions is just as important as the code you write. Most of our time is spent reading code, not writing it. *Don't be sloppy.*
 
 ## Objective-C style
 
