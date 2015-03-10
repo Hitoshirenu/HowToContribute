@@ -32,7 +32,7 @@ Resist being a [lazy developer](http://1.bp.blogspot.com/-YD8Na5Mv4oY/USZJ0T5RKQ
 4. Do some [motherfucking programming](http://programming-motherfucker.com).
 5. Write [unit tests](http://nshipster.com/unit-testing) when applicable.
 6. Keep your code nice and clean by adhering to the coding standards & guidelines below.
-7. Don't break shit, like unit tests, but especially functionality.
+7. Don't break unit tests or functionality.
 8. Update the documentation header comments if needed.
 9. **Merge the latest from the `develop` branch and resolve any conflicts _before submitting a pull request!_**
 10. Submit a pull request to the `develop` branch.
@@ -53,7 +53,7 @@ The following sets of guidelines compliment each other well and cover nearly eve
 
 ## Swift style
 
-Clarity and readability should be prioritized. Remember that [verboseness does not necessarily yield clarity](http://radex.io/swift/methods/). 
+Clarity and readability should be prioritized, while redundancy should be avoided. Remember that [verboseness does not necessarily yield clarity](http://radex.io/swift/methods/). 
 
 Adhere to the following sets of guidelines. In the event of contradictory rules, the order of the guides below denotes their precedence.
 
