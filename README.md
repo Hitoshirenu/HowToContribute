@@ -43,6 +43,8 @@ Resist being a [lazy developer](http://1.bp.blogspot.com/-YD8Na5Mv4oY/USZJ0T5RKQ
 
 Style and adherence to conventions is just as important as the code you write. Most of our time is spent reading code, not writing it. *Don't be sloppy.*
 
+Above all, conform to the existing style of the code in which you are working. When in doubt, refer to the guides below.
+
 ## Objective-C style
 
 The following sets of guidelines compliment each other well and cover nearly everything. In the event of contradictory rules, the order of the guides below denotes their precedence.
