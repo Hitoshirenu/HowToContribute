@@ -2,7 +2,7 @@
 
 *Simple contribution guidelines to make open-source happy and organized*
 
-Resist being a [lazy developer](http://1.bp.blogspot.com/-YD8Na5Mv4oY/USZJ0T5RKQI/AAAAAAAADnU/5U871_OaqRE/s1600/Ain-t-Nobody-Got-Time-Fo-Dat-sweet-brown-31241125-480-330.jpg), we can get through this together.
+Resist being a lazy developer, we can get through this together.
 
 ## Project organization
 
@@ -28,7 +28,7 @@ Resist being a [lazy developer](http://1.bp.blogspot.com/-YD8Na5Mv4oY/USZJ0T5RKQ
 
 1. Find an issue to work on, or create a new one. *Avoid duplicates, please check existing issues!*
 2. Fork the repo.
-3. Create a new branch with a sweet fucking name: `git checkout -b issue_<##>_<featureOrFix>`.
+3. Create a new branch with a sweet name: `git checkout -b issue_<##>_<featureOrFix>`.
 4. Do some [motherfucking programming](http://programming-motherfucker.com).
 5. Write [unit tests](http://nshipster.com/unit-testing) when applicable.
 6. Keep your code nice and clean by adhering to the coding standards & guidelines below.
