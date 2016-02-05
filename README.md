@@ -1,6 +1,6 @@
 # How to contribute
 
-*Simple contribution guidelines to make open-source happy and organized*
+*Simple contribution guidelines to make open source happy and organized*
 
 Resist being a lazy developer, we can get through this together.
 
