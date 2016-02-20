@@ -19,7 +19,7 @@ Resist being a lazy developer, we can get through this together.
 1. Look through existing issues to see if your issue already exists.
 2. If your issue already exists, comment on its thread with any information you have. Even if this is simply to note that you are having the same problem, it is still helpful!
 3. Always *be as descriptive as you can*.
-4. Provide as much information as you can on how to reproduce your issue.
+4. What is the expected behavior? What is the actual behavior? What are the steps to reproduce?
 5. Attach screenshots, videos, GIFs if possible.
 6. **Include library version or branch experiencing the issue.**
 7. **Include OS version and devices experiencing the issue.**
